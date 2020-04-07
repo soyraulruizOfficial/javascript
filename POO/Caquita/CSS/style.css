@@ -1,0 +1,22 @@
+
+body{
+  overflow: hidden;
+}
+
+.container {
+  border: 3px solid #000;
+  position: relative;
+  min-height: 556px;
+  min-width: 926px;
+
+  
+}
+
+.container * {
+  position: absolute;
+  display: block;
+}
+#Carro{
+width: 80px;
+height: 70px;
+}
