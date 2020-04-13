@@ -1,0 +1,23 @@
+{
+  "name": "nose",
+  "version": "1.0.0",
+  "description": "Esta app se encargara de aprender las bases para los frameworks de js",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-Server"
+  },
+  "keywords": [
+    "webpack",
+    "typescipt"
+  ],
+  "author": "Raul Duron Ruiz",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "html-webpack-plugin": "^4.2.0",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
