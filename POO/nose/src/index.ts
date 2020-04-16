@@ -1,6 +1,8 @@
-console.log("Ya funciono perrro")
 
-const contenedor = document.getElementById("container")
-const input = document.createElement("input");
-input.classList.add("form-control")
-contenedor.appendChild(input)
+import "./../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+// import "./temasBase/tipadoDatos";
+// import"./temasBase/ifTernarios";
+// import"./temasBase/funcionesStandard";
+// import"./temasBase/destructuracionArrayObjetos";
+import "./temasBase/spreadOperator"
